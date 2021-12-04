@@ -1,0 +1,27 @@
+{
+  "name": "exernodecrashcourse",
+  "version": "1.0.0",
+  "description": "Node crash course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rbar70/exerNodeCrashCourse.git"
+  },
+  "author": "Robert Barber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rbar70/exerNodeCrashCourse/issues"
+  },
+  "homepage": "https://github.com/Rbar70/exerNodeCrashCourse#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
